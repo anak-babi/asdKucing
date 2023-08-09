@@ -1,0 +1,10 @@
+diff a/PortalApp/appsettings.Development.json b/PortalApp/appsettings.Development.json	(rejected hunks)
+@@ -4,5 +4,7 @@
+       "Default": "Information",
+       "Microsoft.AspNetCore": "Warning"
+     }
+-  }
++  },
++  "TaikKucing": "BaukSekali",
++  "TaikKucing1": "BaukSekali1"
+ }
